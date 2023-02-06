@@ -26,3 +26,6 @@ ricardoadevmelo@gmail.com <br/>
 <br/>
 <br/>
 ![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoadevmelo&theme=aura_dark) <br/>
+
+
+### Technology is my passion...
