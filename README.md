@@ -21,7 +21,7 @@ ricardoadevmelo@gmail.com <br/>
 My resume: <br/>
 
 
-<a href="https://ricardoadevmelo.github.io/html-portfolio/" target="_blank"><img src="https://dev.to/envoy_/150-badges-for-github-pnk#contact:~:text=https%3A//img.shields.io/badge/website%2D000000%3Fstyle%3Dfor%2Dthe%2Dbadge%26logo%3DAbout.me%26logoColor%3Dwhite" target="_blank"></a>
+<a href="https://ricardoadevmelo.github.io/html-portfolio/"><img src="https://github.com/ricardoadevmelo/assets/blob/main/icons8-hyperlink-64.png"></a>
 
 
 [![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/) 
