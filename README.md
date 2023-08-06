@@ -22,6 +22,8 @@ My resume: <br/>
 
 [![icons8-hyperlink-64](https://github.com/ricardoadevmelo/ricardoadevmelo/assets/121776568/e7e8a8cd-b60d-4ed3-977f-431e9126fb46)](https://ricardoadevmelo.github.io/html-portfolio/)
 
+<a href="https://ricardoadevmelo.github.io/html-portfolio/"><img src="./d:\icons8-hyperlink-64.png></a>
+
 
 [![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-alves-melo-3971b9265/)
