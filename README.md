@@ -18,6 +18,7 @@
 
 ricardoadevmelo@gmail.com <br/>
 55-86-99489-7188
+My resume: [https://ricardoadevmelo.github.io/html-portfolio/]
 
 [![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-alves-melo-3971b9265/)
