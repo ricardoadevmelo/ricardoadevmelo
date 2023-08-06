@@ -19,7 +19,6 @@
 ricardoadevmelo@gmail.com <br/>
 55-86-99489-7188 <br/>
 My resume: <br/>
-<a href="https://ricardoadevmelo.github.io/html-portfolio/"><img src="![icons8-hyperlink-64](https://github.com/ricardoadevmelo/ricardoadevmelo/assets/121776568/e7e8a8cd-b60d-4ed3-977f-431e9126fb46)"></a> <br/> <br/> 
 
 [![icons8-hyperlink-64](https://github.com/ricardoadevmelo/ricardoadevmelo/assets/121776568/e7e8a8cd-b60d-4ed3-977f-431e9126fb46)](https://ricardoadevmelo.github.io/html-portfolio/)
 
