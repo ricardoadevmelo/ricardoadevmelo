@@ -20,9 +20,10 @@ ricardoadevmelo@gmail.com <br/>
 55-86-99489-7188 <br/>
 My resume: <br/>
 
-[![icons8-hyperlink-64](https://github.com/ricardoadevmelo/ricardoadevmelo/assets/121776568/e7e8a8cd-b60d-4ed3-977f-431e9126fb46)](https://ricardoadevmelo.github.io/html-portfolio/)
+<a href="https://ricardoadevmelo.github.io/html-portfolio/"><img src="![icons8-hyperlink-64](https://github.com/ricardoadevmelo/ricardoadevmelo/assets/121776568/e7e8a8cd-b60d-4ed3-977f-431e9126fb46)(https://ricardoadevmelo.github.io/html-portfolio/)></a>
 
 
+![icons8-hyperlink-64](https://github.com/ricardoadevmelo/ricardoadevmelo/assets/121776568/418172e3-493c-440a-9632-a89de62b3a26)
 
 
 [![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/) 
