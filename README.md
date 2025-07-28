@@ -1,6 +1,6 @@
 <!-- GitHub Profile README | by ricardoadevmelo -->
 
-<h1 align="center">Hey there, I'm Ricardo! 👋✨</h1>
+<h1 align="center">Hey there, I'm Ricardo!</h1>
 <p align="center">
   <em>Front-End Developer, UI/UX Enthusiast & Digital Experience Alchemist.</em>
 </p>
